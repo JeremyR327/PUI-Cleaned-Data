@@ -1,0 +1,296 @@
+,CD Name,foster_count,Year,Borough,CD_ID
+2,BX01 Mott Haven/Melrose,298.0,2013,BX,201
+3,BX02 Hunts Point/Longwood,116.0,2013,BX,202
+4,BX03 Morrisania/Crotona,221.0,2013,BX,203
+5,BX04 Highbridge/Concourse,275.0,2013,BX,204
+6,BX05 Fordham/University Heights,315.0,2013,BX,205
+7,BX06 Belmont/East Tremont,194.0,2013,BX,206
+8,BX07 Kingsbridge Heights/Bedford Pk,195.0,2013,BX,207
+9,BX08 Riverdale/Fieldstone,119.0,2013,BX,208
+10,BX09 Parkchester/Soundview,472.0,2013,BX,209
+11,BX10 Throgs Neck/Co-op City,144.0,2013,BX,210
+12,BX11 Morris Park/Bronxdale,170.0,2013,BX,211
+13,BX12 Williamsbridge/Baychester,346.0,2013,BX,212
+17,BK01 Greenpoint/Williamsburg,99.0,2013,BK,301
+18,BK02 Fort Greene/Brooklyn Heights,99.0,2013,BK,302
+19,BK03 Bedford Stuyvesant,377.0,2013,BK,303
+20,BK04 Bushwick,145.0,2013,BK,304
+21,BK05 East New York/Starrett City,516.0,2013,BK,305
+22,BK06 Park Slope/Carroll Gardens,70.0,2013,BK,306
+23,BK07 Sunset Park,27.0,2013,BK,307
+24,BK08 Crown Heights,154.0,2013,BK,308
+25,BK09 South Crown Heights/Prospect,86.0,2013,BK,309
+26,BK10 Bay Ridge/Dyker Heights,15.0,2013,BK,310
+27,BK11 Bensonhurst,24.0,2013,BK,311
+28,BK12 Borough Park,21.0,2013,BK,312
+29,BK13 Coney Island,79.0,2013,BK,313
+30,BK14 Flatbush/Midwood,84.0,2013,BK,314
+31,BK15 Sheepshead Bay,43.0,2013,BK,315
+32,BK16 Brownsville,333.0,2013,BK,316
+33,BK17 East Flatbush,195.0,2013,BK,317
+34,BK18 Flatlands/Canarsie,311.0,2013,BK,318
+38,MN01 Financial District,3.0,2013,MN,101
+39,MN02 Greenwich Village/Soho,2.0,2013,MN,102
+40,MN03 Lower East Side/Chinatown,107.0,2013,MN,103
+41,MN04 Clinton/Chelsea,24.0,2013,MN,104
+42,MN05 Midtown,3.0,2013,MN,105
+43,MN06 Stuyvesant Town/Turtle Bay,90.0,2013,MN,106
+44,MN07 Upper West Side,81.0,2013,MN,107
+45,MN08 Upper East Side,18.0,2013,MN,108
+46,MN09 Morningside Height./Hamilton,125.0,2013,MN,109
+47,MN10 Central Harlem,325.0,2013,MN,110
+48,MN11 East Harlem,277.0,2013,MN,111
+49,MN12 Washington Heights/Inwood,143.0,2013,MN,112
+53,QN01 Astoria,90.0,2013,QN,401
+54,QN02 Woodside/Sunnyside,3.0,2013,QN,402
+55,QN03 Jackson Heights,36.0,2013,QN,403
+56,QN04 Elmhurst/Corona,44.0,2013,QN,404
+57,QN05 Ridgewood/Maspeth,69.0,2013,QN,405
+58,QN06 Rego Park/Forest Hills,13.0,2013,QN,406
+59,QN07 Flushing/Whitestone,30.0,2013,QN,407
+60,QN08 Hillcrest/Fresh Meadows,114.0,2013,QN,408
+61,QN09 Ozone Park/Woodhaven,93.0,2013,QN,409
+62,QN10 South. Ozone Park/Howard Beac,76.0,2013,QN,410
+63,QN11 Bayside/Little Neck,22.0,2013,QN,411
+64,QN12 Jamaica/Hollis,646.0,2013,QN,412
+65,QN13 Queens Village,370.0,2013,QN,413
+66,QN14 Rockaway/Broad Channel,272.0,2013,QN,414
+70,S101 Saint George/Stapleton,323.0,2013,S1,501
+71,S102 South Beach/Willowbrook,73.0,2013,S1,502
+72,S103 Tottenville/Great Mils,49.0,2013,S1,503
+2,BX01 Mott Haven/Melrose,284.0,2014,BX,201
+3,BX02 Hunts Point/Longwood,107.0,2014,BX,202
+4,BX03 Morrisania/Crotona,252.0,2014,BX,203
+5,BX04 Highbridge/Concourse,249.0,2014,BX,204
+6,BX05 Fordham/University Heights,290.0,2014,BX,205
+7,BX06 Belmont/East Tremont,170.0,2014,BX,206
+8,BX07 Kingsbridge Heights/Bedford Pk,190.0,2014,BX,207
+9,BX08 Riverdale/Fieldstone,118.0,2014,BX,208
+10,BX09 Parkchester/Soundview,433.0,2014,BX,209
+11,BX10 Throgs Neck/Co-op City,131.0,2014,BX,210
+12,BX11 Morris Park/Bronxdale,185.0,2014,BX,211
+13,BX12 Williamsbridge/Baychester,347.0,2014,BX,212
+17,BK01 Greenpoint/Williamsburg,89.0,2014,BK,301
+18,BK02 Fort Greene/Brooklyn Heights,90.0,2014,BK,302
+19,BK03 Bedford Stuyvesant,365.0,2014,BK,303
+20,BK04 Bushwick,140.0,2014,BK,304
+21,BK05 East New York/Starrett City,515.0,2014,BK,305
+22,BK06 Park Slope/Carroll Gardens,63.0,2014,BK,306
+23,BK07 Sunset Park,43.0,2014,BK,307
+24,BK08 Crown Heights,170.0,2014,BK,308
+25,BK09 South Crown Heights/Prospect,87.0,2014,BK,309
+26,BK10 Bay Ridge/Dyker Heights,17.0,2014,BK,310
+27,BK11 Bensonhurst,26.0,2014,BK,311
+28,BK12 Borough Park,25.0,2014,BK,312
+29,BK13 Coney Island,71.0,2014,BK,313
+30,BK14 Flatbush/Midwood,90.0,2014,BK,314
+31,BK15 Sheepshead Bay,37.0,2014,BK,315
+32,BK16 Brownsville,322.0,2014,BK,316
+33,BK17 East Flatbush,206.0,2014,BK,317
+34,BK18 Flatlands/Canarsie,320.0,2014,BK,318
+38,MN01 Financial District,3.0,2014,MN,101
+39,MN02 Greenwich Village/Soho,2.0,2014,MN,102
+40,MN03 Lower East Side/Chinatown,96.0,2014,MN,103
+41,MN04 Clinton/Chelsea,11.0,2014,MN,104
+42,MN05 Midtown,6.0,2014,MN,105
+43,MN06 Stuyvesant Town/Turtle Bay,109.0,2014,MN,106
+44,MN07 Upper West Side,70.0,2014,MN,107
+45,MN08 Upper East Side,19.0,2014,MN,108
+46,MN09 Morningside Height./Hamilton,120.0,2014,MN,109
+47,MN10 Central Harlem,310.0,2014,MN,110
+48,MN11 East Harlem,243.0,2014,MN,111
+49,MN12 Washington Heights/Inwood,127.0,2014,MN,112
+53,QN01 Astoria,96.0,2014,QN,401
+54,QN02 Woodside/Sunnyside,9.0,2014,QN,402
+55,QN03 Jackson Heights,44.0,2014,QN,403
+56,QN04 Elmhurst/Corona,37.0,2014,QN,404
+57,QN05 Ridgewood/Maspeth,56.0,2014,QN,405
+58,QN06 Rego Park/Forest Hills,12.0,2014,QN,406
+59,QN07 Flushing/Whitestone,30.0,2014,QN,407
+60,QN08 Hillcrest/Fresh Meadows,91.0,2014,QN,408
+61,QN09 Ozone Park/Woodhaven,99.0,2014,QN,409
+62,QN10 South. Ozone Park/Howard Beac,86.0,2014,QN,410
+63,QN11 Bayside/Little Neck,30.0,2014,QN,411
+64,QN12 Jamaica/Hollis,653.0,2014,QN,412
+65,QN13 Queens Village,332.0,2014,QN,413
+66,QN14 Rockaway/Broad Channel,282.0,2014,QN,414
+70,S101 Saint George/Stapleton,355.0,2014,S1,501
+71,S102 South Beach/Willowbrook,65.0,2014,S1,502
+72,S103 Tottenville/Great Mils,63.0,2014,S1,503
+2,BX01 Mott Haven/Melrose,277.0,2015,BX,201
+3,BX02 Hunts Point/Longwood,95.0,2015,BX,202
+4,BX03 Morrisania/Crotona,236.0,2015,BX,203
+5,BX04 Highbridge/Concourse,206.0,2015,BX,204
+6,BX05 Fordham/University Heights,296.0,2015,BX,205
+7,BX06 Belmont/East Tremont,164.0,2015,BX,206
+8,BX07 Kingsbridge Heights/Bedford Pk,184.0,2015,BX,207
+9,BX08 Riverdale/Fieldstone,97.0,2015,BX,208
+10,BX09 Parkchester/Soundview,380.0,2015,BX,209
+11,BX10 Throgs Neck/Co-op City,148.0,2015,BX,210
+12,BX11 Morris Park/Bronxdale,149.0,2015,BX,211
+13,BX12 Williamsbridge/Baychester,310.0,2015,BX,212
+17,BK01 Greenpoint/Williamsburg,90.0,2015,BK,301
+18,BK02 Fort Greene/Brooklyn Heights,84.0,2015,BK,302
+19,BK03 Bedford Stuyvesant,285.0,2015,BK,303
+20,BK04 Bushwick,140.0,2015,BK,304
+21,BK05 East New York/Starrett City,439.0,2015,BK,305
+22,BK06 Park Slope/Carroll Gardens,67.0,2015,BK,306
+23,BK07 Sunset Park,33.0,2015,BK,307
+24,BK08 Crown Heights,157.0,2015,BK,308
+25,BK09 South Crown Heights/Prospect,77.0,2015,BK,309
+26,BK10 Bay Ridge/Dyker Heights,13.0,2015,BK,310
+27,BK11 Bensonhurst,32.0,2015,BK,311
+28,BK12 Borough Park,15.0,2015,BK,312
+29,BK13 Coney Island,58.0,2015,BK,313
+30,BK14 Flatbush/Midwood,82.0,2015,BK,314
+31,BK15 Sheepshead Bay,33.0,2015,BK,315
+32,BK16 Brownsville,307.0,2015,BK,316
+33,BK17 East Flatbush,165.0,2015,BK,317
+34,BK18 Flatlands/Canarsie,286.0,2015,BK,318
+38,MN01 Financial District,2.0,2015,MN,101
+39,MN02 Greenwich Village/Soho,1.0,2015,MN,102
+40,MN03 Lower East Side/Chinatown,83.0,2015,MN,103
+41,MN04 Clinton/Chelsea,16.0,2015,MN,104
+42,MN05 Midtown,7.0,2015,MN,105
+43,MN06 Stuyvesant Town/Turtle Bay,112.0,2015,MN,106
+44,MN07 Upper West Side,63.0,2015,MN,107
+45,MN08 Upper East Side,11.0,2015,MN,108
+46,MN09 Morningside Height./Hamilton,100.0,2015,MN,109
+47,MN10 Central Harlem,283.0,2015,MN,110
+48,MN11 East Harlem,223.0,2015,MN,111
+49,MN12 Washington Heights/Inwood,123.0,2015,MN,112
+53,QN01 Astoria,99.0,2015,QN,401
+54,QN02 Woodside/Sunnyside,10.0,2015,QN,402
+55,QN03 Jackson Heights,32.0,2015,QN,403
+56,QN04 Elmhurst/Corona,34.0,2015,QN,404
+57,QN05 Ridgewood/Maspeth,55.0,2015,QN,405
+58,QN06 Rego Park/Forest Hills,10.0,2015,QN,406
+59,QN07 Flushing/Whitestone,24.0,2015,QN,407
+60,QN08 Hillcrest/Fresh Meadows,70.0,2015,QN,408
+61,QN09 Ozone Park/Woodhaven,86.0,2015,QN,409
+62,QN10 South. Ozone Park/Howard Beac,69.0,2015,QN,410
+63,QN11 Bayside/Little Neck,27.0,2015,QN,411
+64,QN12 Jamaica/Hollis,575.0,2015,QN,412
+65,QN13 Queens Village,297.0,2015,QN,413
+66,QN14 Rockaway/Broad Channel,246.0,2015,QN,414
+70,S101 Saint George/Stapleton,356.0,2015,S1,501
+71,S102 South Beach/Willowbrook,87.0,2015,S1,502
+72,S103 Tottenville/Great Mils,63.0,2015,S1,503
+2,BX01 Mott Haven/Melrose,242.0,2016,BX,201
+3,BX02 Hunts Point/Longwood,71.0,2016,BX,202
+4,BX03 Morrisania/Crotona,212.0,2016,BX,203
+5,BX04 Highbridge/Concourse,190.0,2016,BX,204
+6,BX05 Fordham/University Heights,294.0,2016,BX,205
+7,BX06 Belmont/East Tremont,155.0,2016,BX,206
+8,BX07 Kingsbridge Heights/Bedford Pk,181.0,2016,BX,207
+9,BX08 Riverdale/Fieldstone,89.0,2016,BX,208
+10,BX09 Parkchester/Soundview,352.0,2016,BX,209
+11,BX10 Throgs Neck/Co-op City,119.0,2016,BX,210
+12,BX11 Morris Park/Bronxdale,150.0,2016,BX,211
+13,BX12 Williamsbridge/Baychester,299.0,2016,BX,212
+17,BK01 Greenpoint/Williamsburg,83.0,2016,BK,301
+18,BK02 Fort Greene/Brooklyn Heights,100.0,2016,BK,302
+19,BK03 Bedford Stuyvesant,263.0,2016,BK,303
+20,BK04 Bushwick,117.0,2016,BK,304
+21,BK05 East New York/Starrett City,383.0,2016,BK,305
+22,BK06 Park Slope/Carroll Gardens,56.0,2016,BK,306
+23,BK07 Sunset Park,25.0,2016,BK,307
+24,BK08 Crown Heights,136.0,2016,BK,308
+25,BK09 South Crown Heights/Prospect,60.0,2016,BK,309
+26,BK10 Bay Ridge/Dyker Heights,30.0,2016,BK,310
+27,BK11 Bensonhurst,27.0,2016,BK,311
+28,BK12 Borough Park,16.0,2016,BK,312
+29,BK13 Coney Island,54.0,2016,BK,313
+30,BK14 Flatbush/Midwood,76.0,2016,BK,314
+31,BK15 Sheepshead Bay,32.0,2016,BK,315
+32,BK16 Brownsville,278.0,2016,BK,316
+33,BK17 East Flatbush,167.0,2016,BK,317
+34,BK18 Flatlands/Canarsie,245.0,2016,BK,318
+38,MN01 Financial District,4.0,2016,MN,101
+39,MN02 Greenwich Village/Soho,3.0,2016,MN,102
+40,MN03 Lower East Side/Chinatown,96.0,2016,MN,103
+41,MN04 Clinton/Chelsea,21.0,2016,MN,104
+42,MN05 Midtown,6.0,2016,MN,105
+43,MN06 Stuyvesant Town/Turtle Bay,165.0,2016,MN,106
+44,MN07 Upper West Side,60.0,2016,MN,107
+45,MN08 Upper East Side,8.0,2016,MN,108
+46,MN09 Morningside Height./Hamilton,94.0,2016,MN,109
+47,MN10 Central Harlem,228.0,2016,MN,110
+48,MN11 East Harlem,219.0,2016,MN,111
+49,MN12 Washington Heights/Inwood,118.0,2016,MN,112
+53,QN01 Astoria,60.0,2016,QN,401
+54,QN02 Woodside/Sunnyside,8.0,2016,QN,402
+55,QN03 Jackson Heights,30.0,2016,QN,403
+56,QN04 Elmhurst/Corona,35.0,2016,QN,404
+57,QN05 Ridgewood/Maspeth,54.0,2016,QN,405
+58,QN06 Rego Park/Forest Hills,16.0,2016,QN,406
+59,QN07 Flushing/Whitestone,22.0,2016,QN,407
+60,QN08 Hillcrest/Fresh Meadows,72.0,2016,QN,408
+61,QN09 Ozone Park/Woodhaven,74.0,2016,QN,409
+62,QN10 South. Ozone Park/Howard Beac,63.0,2016,QN,410
+63,QN11 Bayside/Little Neck,19.0,2016,QN,411
+64,QN12 Jamaica/Hollis,498.0,2016,QN,412
+65,QN13 Queens Village,249.0,2016,QN,413
+66,QN14 Rockaway/Broad Channel,208.0,2016,QN,414
+70,S101 Saint George/Stapleton,315.0,2016,S1,501
+71,S102 South Beach/Willowbrook,99.0,2016,S1,502
+72,S103 Tottenville/Great Mils,76.0,2016,S1,503
+2,BX01 Mott Haven/Melrose,258.0,2017,BX,201
+3,BX02 Hunts Point/Longwood,91.0,2017,BX,202
+4,BX03 Morrisania/Crotona,226.0,2017,BX,203
+5,BX04 Highbridge/Concourse,183.0,2017,BX,204
+6,BX05 Fordham/University Heights,305.0,2017,BX,205
+7,BX06 Belmont/East Tremont,173.0,2017,BX,206
+8,BX07 Kingsbridge Heights/Bedford Pk,158.0,2017,BX,207
+9,BX08 Riverdale/Fieldstone,76.0,2017,BX,208
+10,BX09 Parkchester/Soundview,341.0,2017,BX,209
+11,BX10 Throgs Neck/Co-op City,118.0,2017,BX,210
+12,BX11 Morris Park/Bronxdale,135.0,2017,BX,211
+13,BX12 Williamsbridge/Baychester,358.0,2017,BX,212
+17,BK01 Greenpoint/Williamsburg,70.0,2017,BK,301
+18,BK02 Fort Greene/Brooklyn Heights,81.0,2017,BK,302
+19,BK03 Bedford Stuyvesant,231.0,2017,BK,303
+20,BK04 Bushwick,122.0,2017,BK,304
+21,BK05 East New York/Starrett City,381.0,2017,BK,305
+22,BK06 Park Slope/Carroll Gardens,52.0,2017,BK,306
+23,BK07 Sunset Park,28.0,2017,BK,307
+24,BK08 Crown Heights,128.0,2017,BK,308
+25,BK09 South Crown Heights/Prospect,65.0,2017,BK,309
+26,BK10 Bay Ridge/Dyker Heights,17.0,2017,BK,310
+27,BK11 Bensonhurst,23.0,2017,BK,311
+28,BK12 Borough Park,17.0,2017,BK,312
+29,BK13 Coney Island,73.0,2017,BK,313
+30,BK14 Flatbush/Midwood,60.0,2017,BK,314
+31,BK15 Sheepshead Bay,38.0,2017,BK,315
+32,BK16 Brownsville,260.0,2017,BK,316
+33,BK17 East Flatbush,134.0,2017,BK,317
+34,BK18 Flatlands/Canarsie,257.0,2017,BK,318
+38,MN01 Financial District,3.0,2017,MN,101
+39,MN02 Greenwich Village/Soho,0.0,2017,MN,102
+40,MN03 Lower East Side/Chinatown,83.0,2017,MN,103
+41,MN04 Clinton/Chelsea,23.0,2017,MN,104
+42,MN05 Midtown,3.0,2017,MN,105
+43,MN06 Stuyvesant Town/Turtle Bay,196.0,2017,MN,106
+44,MN07 Upper West Side,63.0,2017,MN,107
+45,MN08 Upper East Side,14.0,2017,MN,108
+46,MN09 Morningside Height./Hamilton,110.0,2017,MN,109
+47,MN10 Central Harlem,248.0,2017,MN,110
+48,MN11 East Harlem,207.0,2017,MN,111
+49,MN12 Washington Heights/Inwood,93.0,2017,MN,112
+53,QN01 Astoria,71.0,2017,QN,401
+54,QN02 Woodside/Sunnyside,13.0,2017,QN,402
+55,QN03 Jackson Heights,37.0,2017,QN,403
+56,QN04 Elmhurst/Corona,41.0,2017,QN,404
+57,QN05 Ridgewood/Maspeth,38.0,2017,QN,405
+58,QN06 Rego Park/Forest Hills,10.0,2017,QN,406
+59,QN07 Flushing/Whitestone,23.0,2017,QN,407
+60,QN08 Hillcrest/Fresh Meadows,60.0,2017,QN,408
+61,QN09 Ozone Park/Woodhaven,63.0,2017,QN,409
+62,QN10 South. Ozone Park/Howard Beac,54.0,2017,QN,410
+63,QN11 Bayside/Little Neck,29.0,2017,QN,411
+64,QN12 Jamaica/Hollis,512.0,2017,QN,412
+65,QN13 Queens Village,243.0,2017,QN,413
+66,QN14 Rockaway/Broad Channel,188.0,2017,QN,414
+70,S101 Saint George/Stapleton,311.0,2017,S1,501
+71,S102 South Beach/Willowbrook,102.0,2017,S1,502
+72,S103 Tottenville/Great Mils,84.0,2017,S1,503
